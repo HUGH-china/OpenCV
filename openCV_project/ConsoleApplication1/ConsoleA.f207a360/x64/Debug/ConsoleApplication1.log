@@ -1,0 +1,56 @@
+﻿  ConsoleApplication1.cpp
+D:\openCV\opencv\build\include\opencv2\core\mat.hpp(1965,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ConsoleApplication1.cpp”)
+  
+D:\openCV\opencv\build\include\opencv2\core\persistence.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ConsoleApplication1.cpp”)
+  
+D:\openCV\opencv\build\include\opencv2\core\utility.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ConsoleApplication1.cpp”)
+  
+D:\openCV\opencv\build\include\opencv2\core\utility.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ConsoleApplication1.cpp”)
+  
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(41,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(42,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(77,32): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(77,32): warning C4244:         with
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(77,32): warning C4244:         [
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(77,32): warning C4244:             _Tp=float
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(77,32): warning C4244:         ]
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(77,22): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(77,22): warning C4244:         with
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(77,22): warning C4244:         [
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(77,22): warning C4244:             _Tp=float
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(77,22): warning C4244:         ]
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(98,26): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(98,26): warning C4244:         with
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(98,26): warning C4244:         [
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(98,26): warning C4244:             _Tp=float
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(98,26): warning C4244:         ]
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(98,23): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(98,23): warning C4244:         with
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(98,23): warning C4244:         [
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(98,23): warning C4244:             _Tp=float
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(98,23): warning C4244:         ]
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(108,31): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(108,31): warning C4244:         with
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(108,31): warning C4244:         [
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(108,31): warning C4244:             _Tp=float
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(108,31): warning C4244:         ]
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(109,45): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(109,45): warning C4244:         with
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(109,45): warning C4244:         [
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(109,45): warning C4244:             _Tp=float
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(109,45): warning C4244:         ]
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(109,32): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(109,32): warning C4244:         with
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(109,32): warning C4244:         [
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(109,32): warning C4244:             _Tp=float
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(109,32): warning C4244:         ]
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(110,35): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(110,35): warning C4244:         with
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(110,35): warning C4244:         [
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(110,35): warning C4244:             _Tp=float
+C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\ConsoleApplication1.cpp(110,35): warning C4244:         ]
+  ConsoleApplication1.vcxproj -> C:\Users\ROG\Desktop\openCV_project\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
