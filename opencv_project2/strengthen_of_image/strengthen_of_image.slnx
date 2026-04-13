@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="strengthen_of_image.vcxproj" Id="3f2a8aea-a738-46bd-a540-71c24e5cd865" />
+</Solution>

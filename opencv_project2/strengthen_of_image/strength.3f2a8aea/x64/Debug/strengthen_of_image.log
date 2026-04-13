@@ -1,0 +1,16 @@
+﻿  strengthen_of_image.cpp
+D:\openCV\opencv\build\include\opencv2\core\mat.hpp(1965,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“strengthen_of_image.cpp”)
+  
+D:\openCV\opencv\build\include\opencv2\core\persistence.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“strengthen_of_image.cpp”)
+  
+D:\openCV\opencv\build\include\opencv2\core\utility.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“strengthen_of_image.cpp”)
+  
+D:\openCV\opencv\build\include\opencv2\core\utility.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“strengthen_of_image.cpp”)
+  
+C:\Users\ROG\Desktop\opencv_project\strengthen_of_image\strengthen_of_image.cpp(45,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ROG\Desktop\opencv_project\strengthen_of_image\strengthen_of_image.cpp(79,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  strengthen_of_image.vcxproj -> C:\Users\ROG\Desktop\opencv_project\strengthen_of_image\x64\Debug\strengthen_of_image.exe
